@@ -24,13 +24,14 @@ Third Party Payment Integrations
    - Publish payment events
    - Integrate with multiple PSPs
 
-# Non Functional Requirements 
-   High Availability
-   Scalability
-   Low Latency
-   Fault Tolerance
-   Eventual Consistency
-   Secure Communications
+# Non Functional Requirements  
+   - Low Latency
+   - Scalability
+   - High Availability
+   - calability
+   - Fault Tolerance
+   - Eventual Consistency
+   - Secure Communications
 
 ##  Component Details
    ### API Gateway
