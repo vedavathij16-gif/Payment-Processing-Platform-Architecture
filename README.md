@@ -11,3 +11,7 @@ Read/Write DB Separation
 Redis Caching
 Async Messaging
 Third Party Payment Integrations
+
+2. Architecture Diagram
+
+   <img width="1614" height="1652" alt="image" src="https://github.com/user-attachments/assets/49d694cc-24f7-41f3-8ffa-6a5df82fb1fc" />
